@@ -1,4 +1,4 @@
 # rcheatsheet
 
-## disable scientific notation?
+disable scientific notation?
 options(scipen=999)
