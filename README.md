@@ -7,6 +7,8 @@ options(scipen=999)
 exgaus package:
 https://cran.r-project.org/web/packages/retimes/retimes.pdf
 
+[basic distros in r](http://seankross.com/notes/dpqr/)
+
 
 
 ## What is the damn difference between library(), source() and require()? *for a function*
@@ -31,9 +33,13 @@ mutate(n = row_number())
 
 #### Confidence interval stuff
 [bootstrapn](https://www.statmethods.net/advstats/bootstrapping.html)
+
 [basic calcs CI](https://www.cyclismo.org/tutorial/R/confidence.html)
+
 [good overview](http://rcompanion.org/handbook/C_03.html)
+
 [good paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.12382)
+
 [good stats lectures, one is on bootstrapped CI's](http://www2.stat.duke.edu/~banks/111-lectures.dir/)
 
 
