@@ -42,4 +42,8 @@ mutate(n = row_number())
 
 [good stats lectures, one is on bootstrapped CI's](http://www2.stat.duke.edu/~banks/111-lectures.dir/)
 
+#### compound sym papers
+
+https://www.tandfonline.com/doi/pdf/10.1080/03610919308813143
+https://www.jstor.org/stable/2530695?seq=1#page_scan_tab_contents
 
