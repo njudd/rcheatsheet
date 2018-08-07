@@ -9,6 +9,10 @@ https://cran.r-project.org/web/packages/retimes/retimes.pdf
 
 [basic distros in r](http://seankross.com/notes/dpqr/)
 
+## The UCLA page is really good
+[contrasts](https://stats.idre.ucla.edu/r/library/r-library-contrast-coding-systems-for-categorical-variables/)
+[more basic contrasts](https://stats.idre.ucla.edu/r/modules/coding-for-categorical-variables-in-regression-models/)
+
 
 
 ## What is the damn difference between library(), source() and require()? *for a function*
