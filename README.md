@@ -1,11 +1,13 @@
 # rcheatsheet
 
 disable scientific notation?
+```
+options(scipen=999)
+```
 
 ### get around the great fire wall of ki
 install.packages('tidyverse', dependencies=TRUE, repos='http://cran.rstudio.com/')
 
-options(scipen=999)
 
 exgaus package:
 https://cran.r-project.org/web/packages/retimes/retimes.pdf
