@@ -5,6 +5,12 @@ disable scientific notation?
 options(scipen=999)
 ```
 
+another magical line
+```
+cvars_all_noscale$split_cohort <- with(cvars_all_noscale, factor(split:cohort))
+```
+
+
 ### get around the great fire wall of ki
 install.packages('tidyverse', dependencies=TRUE, repos='http://cran.rstudio.com/')
 
